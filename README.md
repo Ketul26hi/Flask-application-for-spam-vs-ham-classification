@@ -1,1 +1,1 @@
-# Flask-application-for-spam-vs-ham-classification-using-flask
+# Flask-application-for-spam-vs-ham-classification
